@@ -13,3 +13,5 @@ class Solution:
             if len(trips) == digits: break
  
         return len(trips)
+
+    #lf
