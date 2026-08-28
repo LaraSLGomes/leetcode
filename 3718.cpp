@@ -9,7 +9,7 @@ public:
 
         int ans = k;
 
-        while (ans <= 100 && contains[ans]) {
+        while (ans <= 3100 && contains[ans]) {
             ans += k;
         }
 
