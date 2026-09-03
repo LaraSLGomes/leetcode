@@ -218,4 +218,4 @@ function getNextEnergy(currentEnergy, pointType) {
  */
 function isInClassroom(row, column) {
     return row >= 0 && row < util.rows && column >= 0 && column < util.columns;
-}
+}3
